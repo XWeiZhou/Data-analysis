@@ -12,7 +12,6 @@ lay_show(lay1)
 lay2 <- lay_new( matrix(1:4, nc = 2), widths = c(3, 5),heights = c(2, 4))
 lay_show(lay2)
 
-
 ######其它拼图包没有的功能，非常好用
 ###跟合并矩阵类似。分为行合并和列合并
 
