@@ -128,7 +128,7 @@ p <- ggarrange(p1, p2, p3, ncol = 3)
 p
 ```
 
-## Prerequisites
+## Prerequisites 
 You need to install: R
 
 ## Authors:
